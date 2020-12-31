@@ -11,7 +11,7 @@
 
 
 ## Demo
-Link: [https://diabetes--predictor-api.herokuapp.com/](https://diabetes--predictor-api.herokuapp.com/)
+Link:
 
 [![](https://i.imgur.com/myiHTR1.png)](https://diabetes--predictor-api.herokuapp.com/)
 
