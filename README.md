@@ -11,7 +11,7 @@
 
 
 ## Demo
-Link:
+Link:https://diabetes-prediction-appp.herokuapp.com/
 
 [![](https://i.imgur.com/myiHTR1.png)](https://diabetes--predictor-api.herokuapp.com/)
 
