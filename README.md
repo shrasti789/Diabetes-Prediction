@@ -11,7 +11,7 @@
 
 
 ## Demo
-Link: 
+Link: https://diabetes-prediction-appp.herokuapp.com/
 
 
 
